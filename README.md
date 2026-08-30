@@ -1,24 +1,24 @@
-# Hi there 👋
-I'm Sarva Dubey.
-I'm interested in machine learning systems, graph representation learning,
-distributed infrastructure, and open source software.
+# Hi, I'm Sarva Dubey 👋
 
+I’m a software engineering student interested in the space where machine learning meets systems.
 
-## Current Focus
+I build and study projects involving deep learning, graph representation learning, AI systems, distributed infrastructure, and open-source software. I’m especially interested in how ML systems are designed, evaluated, and deployed in the real world.
 
-- Deep Learning
-- Graph Neural Networks
-- AI Systems
-- Distributed Systems
-- Open Source Engineering
-- Research
+## Current interests
 
+* Deep learning and graph neural networks
+* AI systems, inference, and evaluation
+* Distributed systems and infrastructure
+* Observability and reliability
+* Open-source engineering
+* Applied research
 
-## Repository Status
-Repositories that are actively used in my research or daily workflow are
-continuously maintained.
-Repositories that are not archived are still open to bug reports, feature
-requests, and community contributions.
----
+## About my repositories
+
+Some repositories here support my research and daily engineering work, while others document experiments, learning, and long-term projects.
+
+Actively maintained projects will continue to evolve. Other non-archived repositories remain open to bug reports, ideas, and contributions.
+
+I prefer understanding systems from first principles and turning that understanding into working software.
 
 Thanks for stopping by.
