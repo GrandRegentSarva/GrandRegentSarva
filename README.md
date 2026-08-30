@@ -19,19 +19,6 @@ Repositories that are actively used in my research or daily workflow are
 continuously maintained.
 Repositories that are not archived are still open to bug reports, feature
 requests, and community contributions.
-
-
-## Open Source
-
-I enjoy contributing to infrastructure and developer tooling.
-
-Current ecosystems of interest include
-
-- Jaeger
-- OpenTelemetry
-- CNCF
-- LFX Mentorship
-
 ---
 
 Thanks for stopping by.
